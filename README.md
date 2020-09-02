@@ -1,2 +1,2 @@
 # Coursera_Capstone
-For Applied Data Science assignment
+This repositry contains assignments of Applied DataScience Capstone Project
